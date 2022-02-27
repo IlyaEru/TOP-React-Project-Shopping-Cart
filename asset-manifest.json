@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/TOP-React-Project-Shopping-Cart/static/css/main.31382a05.css",
+    "main.js": "/TOP-React-Project-Shopping-Cart/static/js/main.40091477.js",
+    "static/media/Indira_K.ttf": "/TOP-React-Project-Shopping-Cart/static/media/Indira_K.3d68567ab2e3dcb36475.ttf",
+    "static/media/home-background.jpg": "/TOP-React-Project-Shopping-Cart/static/media/home-background.acc2b45c5dbabcdecda2.jpg",
+    "static/media/aragon.jpg": "/TOP-React-Project-Shopping-Cart/static/media/aragon.d20e4c0d448f60d7947d.jpg",
+    "static/media/hobbit.jpg": "/TOP-React-Project-Shopping-Cart/static/media/hobbit.06d9fac30a9db6cfa2db.jpg",
+    "static/media/code.jpg": "/TOP-React-Project-Shopping-Cart/static/media/code.69276b6f2d28c0faca92.jpg",
+    "static/media/name-of-wind.jpg": "/TOP-React-Project-Shopping-Cart/static/media/name-of-wind.9104cfdedc8f0ec831d8.jpg",
+    "static/media/witcher.jpg": "/TOP-React-Project-Shopping-Cart/static/media/witcher.90680d09bea936781892.jpg",
+    "static/media/way-of-kings.jpg": "/TOP-React-Project-Shopping-Cart/static/media/way-of-kings.3b035232f33be2c39384.jpg",
+    "static/media/1984.jpg": "/TOP-React-Project-Shopping-Cart/static/media/1984.1a3c48a9dd875e60a8c1.jpg",
+    "static/media/game-thrones.jpg": "/TOP-React-Project-Shopping-Cart/static/media/game-thrones.55b9852cafe7e9a35bad.jpg",
+    "static/media/5-am.jpg": "/TOP-React-Project-Shopping-Cart/static/media/5-am.925a6a752f4c85417321.jpg",
+    "static/media/dune.jpg": "/TOP-React-Project-Shopping-Cart/static/media/dune.21239455dfe4183512e6.jpg",
+    "static/media/harry-potter.jpeg": "/TOP-React-Project-Shopping-Cart/static/media/harry-potter.310ef727981e8f203e12.jpeg",
+    "static/media/facebook.svg": "/TOP-React-Project-Shopping-Cart/static/media/facebook.a79fb3af578e0ed650b8870b3b622c07.svg",
+    "static/media/instagram.svg": "/TOP-React-Project-Shopping-Cart/static/media/instagram.62572c862d53f228aa8eff879e2e1d37.svg",
+    "static/media/github.svg": "/TOP-React-Project-Shopping-Cart/static/media/github.09f5b9f965f0241a3115c9ea0436ba00.svg",
+    "static/media/cart.svg": "/TOP-React-Project-Shopping-Cart/static/media/cart.13d5afd6b72658a31365afd2431511ba.svg",
+    "index.html": "/TOP-React-Project-Shopping-Cart/index.html",
+    "main.31382a05.css.map": "/TOP-React-Project-Shopping-Cart/static/css/main.31382a05.css.map",
+    "main.40091477.js.map": "/TOP-React-Project-Shopping-Cart/static/js/main.40091477.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31382a05.css",
+    "static/js/main.40091477.js"
+  ]
+}
