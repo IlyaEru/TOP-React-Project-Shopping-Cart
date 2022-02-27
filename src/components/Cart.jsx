@@ -74,7 +74,7 @@ export default function Cart({
             <td className="empty-td" />
             <td />
             <td className="cart-summary__btns">
-              <Link to="/books"><button type="button" className="btn cart-summary__btns-continue">Continue Shooping</button></Link>
+              <Link to="/books"><button type="button" className="btn cart-summary__btns-continue">Continue Shopping</button></Link>
             </td>
             <td className="cart-summary__price">
               {totalCart}
