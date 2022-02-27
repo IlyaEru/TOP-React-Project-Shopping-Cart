@@ -1,0 +1,58 @@
+header {
+  @media (max-width: 800px) {
+    font-size: 0.5rem;
+  }
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background: #0d0f0e;
+  color: white;
+  .hero {
+    margin: 1rem 0;
+    font-family: indira;
+    @media (max-width: 340px) {
+      text-align: center;
+    }
+  }
+  padding: 0 2rem;
+  nav {
+    justify-self: center;
+    display: flex;
+    gap: 2rem;
+    font-size: 1.8rem;
+    @media (max-width: 500px) {
+      font-size: 1rem;
+    }
+    align-items: center;
+    a {
+      border: 2px solid transparent;
+    }
+    .active {
+      border-bottom: 2px solid #3649a7;
+    }
+  }
+  .cart-wraper {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+    .cart-link {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      .cart-img {
+        filter: invert(1);
+        height: 3rem;
+        @media (max-width: 500px) {
+          height: 1.5rem;
+        }
+      }
+      .cart-number {
+        font-size: 2rem;
+        @media (max-width: 500px) {
+          font-size: 1rem;
+        }
+      }
+    }
+  }
+}

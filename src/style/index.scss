@@ -1,0 +1,11 @@
+@use "base";
+@use "App";
+@use "Header";
+@use "Books";
+@use "BookDetails";
+@use "Cart";
+@use "About";
+@font-face {
+  font-family: indira;
+  src: url("./Indira_K.ttf");
+}

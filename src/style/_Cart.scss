@@ -1,0 +1,120 @@
+.cart-container {
+  background: #d3d3d330;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 2rem 0;
+  .table {
+    border-collapse: collapse;
+    width: 80%;
+    td,
+    th {
+      text-align: left;
+      padding: 8px;
+      @media (max-width: 600px) {
+        font-size: 0.5rem;
+      }
+    }
+    .total-td,
+    .price-td {
+      text-align: center;
+    }
+    td.delete-td {
+      text-align-last: center;
+    }
+    tbody {
+      tr {
+        border-top: 1px solid #dddddd;
+        border-bottom: 1px solid #dddddd;
+      }
+      .cart-book-details {
+        display: flex;
+        gap: 1rem;
+        .cart-book-details__img {
+          height: 10rem;
+          width: 7rem;
+          @media (max-width: 600px) {
+            height: 5rem;
+            width: 3.5rem;
+          }
+        }
+        .cart-book-details__text {
+          display: flex;
+          flex-direction: column;
+          .name {
+            font-size: 1.4rem;
+            font-weight: 500;
+            @media (max-width: 600px) {
+              font-size: 0.7rem;
+            }
+          }
+          .author {
+            font-weight: 300;
+          }
+        }
+      }
+      #new-amount-input {
+        width: 3rem;
+        background: transparent;
+        border: 1px solid;
+        &:focus {
+          border: 1px solid;
+          outline: none;
+        }
+      }
+      .cart-delete-btn {
+        color: white;
+        background: black;
+        height: 2rem;
+        width: 5rem;
+        @media (max-width: 600px) {
+          height: 1rem;
+          width: 2.5rem;
+          padding-top: 2px;
+        }
+        &:hover {
+          transform: scale(1.02);
+        }
+        &:active {
+          transform: scale(1);
+        }
+      }
+      .cart-summary__btns {
+        display: flex;
+        gap: 1rem;
+        justify-content: center;
+      }
+      .cart-summary__price {
+        font-size: 1.2rem;
+        font-weight: 500;
+        text-align: center;
+      }
+      .checkout-td {
+        text-align-last: center;
+      }
+      .empty-td {
+        min-width: 22rem;
+        @media (max-width: 600px) {
+          min-width: 8rem;
+        }
+      }
+      .cart-summary__btns-checkout,
+      .cart-summary__btns-continue {
+        background: #6bcf6b;
+        color: white;
+        padding: 0.5rem 1rem;
+        @media (max-width: 600px) {
+          padding: 0.3rem 0.6rem;
+        }
+      }
+      .cart-summary__btns-continue {
+        background: #80808045;
+        color: black;
+        @media (max-width: 600px) {
+          padding: 2px 0.6rem;
+        }
+      }
+    }
+  }
+}

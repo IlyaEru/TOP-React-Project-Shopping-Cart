@@ -1,0 +1,20 @@
+.about-wrapper {
+  background: #d3d3d330;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .icons {
+    display: flex;
+    gap: 1rem;
+    margin-top: -10%;
+    img {
+      cursor: pointer;
+      height: 5rem;
+      transition: transform 0.7s ease-in-out;
+      &:hover {
+        transform: scale(1.1) rotate(360deg);
+      }
+    }
+  }
+}
