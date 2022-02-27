@@ -134,6 +134,8 @@ export default function RouteSwitch() {
     <BrowserRouter>
       <Header bookList={bookList} cart={cart} />
       <Routes>
+        <Route index element={<App />} />
+        <Route path="/TOP-React-Project-Shopping-Cart" element={<App />} />
         <Route path="/" element={<App />} />
         <Route path="/books" element={<Books handleAddBookToCart={handleAddBookToCart} bookList={bookList} />} />
         <Route path="/books/:bookName" element={<BookDetails handleAddBookToCart={handleAddBookToCart} bookList={bookList} />} />
