@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
             - George R.R. Martin
           </div>
         </div>
+        <Link className="purchase-btn-link" to="/books"><button type="button" className="btn purchase-btn">Purchase Now!</button></Link>
 
       </div>
     </div>
