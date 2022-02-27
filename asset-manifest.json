@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TOP-React-Project-Shopping-Cart/static/css/main.31382a05.css",
-    "main.js": "/TOP-React-Project-Shopping-Cart/static/js/main.1264c93f.js",
+    "main.css": "/TOP-React-Project-Shopping-Cart/static/css/main.bd90dce3.css",
+    "main.js": "/TOP-React-Project-Shopping-Cart/static/js/main.879fb6f8.js",
     "static/media/Indira_K.ttf": "/TOP-React-Project-Shopping-Cart/static/media/Indira_K.3d68567ab2e3dcb36475.ttf",
     "static/media/home-background.jpg": "/TOP-React-Project-Shopping-Cart/static/media/home-background.acc2b45c5dbabcdecda2.jpg",
     "static/media/aragon.jpg": "/TOP-React-Project-Shopping-Cart/static/media/aragon.d20e4c0d448f60d7947d.jpg",
@@ -20,11 +20,11 @@
     "static/media/github.svg": "/TOP-React-Project-Shopping-Cart/static/media/github.09f5b9f965f0241a3115c9ea0436ba00.svg",
     "static/media/cart.svg": "/TOP-React-Project-Shopping-Cart/static/media/cart.13d5afd6b72658a31365afd2431511ba.svg",
     "index.html": "/TOP-React-Project-Shopping-Cart/index.html",
-    "main.31382a05.css.map": "/TOP-React-Project-Shopping-Cart/static/css/main.31382a05.css.map",
-    "main.1264c93f.js.map": "/TOP-React-Project-Shopping-Cart/static/js/main.1264c93f.js.map"
+    "main.bd90dce3.css.map": "/TOP-React-Project-Shopping-Cart/static/css/main.bd90dce3.css.map",
+    "main.879fb6f8.js.map": "/TOP-React-Project-Shopping-Cart/static/js/main.879fb6f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.31382a05.css",
-    "static/js/main.1264c93f.js"
+    "static/css/main.bd90dce3.css",
+    "static/js/main.879fb6f8.js"
   ]
 }
